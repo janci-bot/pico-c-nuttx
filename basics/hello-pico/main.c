@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Pico C Project\n");
+    printf("Hello Pico C!\n");
     return 0;
 }
