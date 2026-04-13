@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status-learning-blue)
+![Language](https://img.shields.io/badge/language-C-orange)
+![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%20Pico-green)
+
 # 🚀 Learn C with Raspberry Pi Pico → NuttX
 
 Learning project focused on **C programming**, **embedded development**, and **NuttX RTOS** using **Raspberry Pi Pico 2 WH**.
@@ -133,6 +137,19 @@ basics/
 * Clockwork PicoCalc
 * Sensors (GPS, BME280, MPU6050)
 * SD card
+
+---
+
+## 🎯 Current Focus
+
+Phase 1 — C Basics  
+Current topic: **Hello World / Project structure**
+
+---
+
+## 🧭 Roadmap
+
+C Basics → Pico SDK → RTOS → NuttX
 
 ---
 
