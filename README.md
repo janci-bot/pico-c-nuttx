@@ -18,19 +18,19 @@ Learning project focused on **C programming**, **embedded development**, and **N
 
 ### Phase 1 — C Basics
 
-* Variables
-* Functions
-* Structs
-* Pointers (basics)
-* Memory concepts
+* [ ] Variables
+* [ ] Functions
+* [ ] Structs
+* [ ] Pointers (basics)
+* [ ] Memory concepts
 
 ### Phase 2 — Raspberry Pi Pico
 
-* GPIO
-* UART
-* I2C
-* SPI
-* Sensors
+* [ ] GPIO
+* [ ] UART
+* [ ] I2C
+* [ ] SPI
+* [ ] Sensors
 
 ### Phase 3 — Embedded Architecture
 
